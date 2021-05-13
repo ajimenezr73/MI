@@ -1,0 +1,32 @@
+
+h1
+{
+    text-align: center;
+    border: 3px solid blue;
+
+}
+#main{
+    text-align:center;
+    display:block;
+    border: none;
+    
+}
+div
+{
+    border: 3px solid blue;
+    color:black;
+    display: inline;
+    font-size: 20px;
+    padding: 30px;
+    margin: 10px;
+    text-decoration: none;
+    
+    
+    
+}
+
+body{
+    
+    color: black;
+    background-color: grey;
+}
